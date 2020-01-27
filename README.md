@@ -1,0 +1,1 @@
+This is going to be my first web development project through the odin project. I'm hoping to be able to make a clone (or close enought clone) of the google search homepage. 
