@@ -1,0 +1,42 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+    padding: 8px;
+}
+#navigation {
+    display: inline;
+}
+
+#google {
+    display: table-cell;
+    height: 500px;
+    text-align: center;
+    width: 300px;
+    vertical-align: middle;
+}
+
+#search {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#navigation2 {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+
+.heading {
+    float: right;
+}
